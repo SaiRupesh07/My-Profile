@@ -8,7 +8,7 @@ I build full-stack and AI-powered products that real users actually use.
 
 <a href="https://my-portfolio-orcin-omega.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Live-2563eb?style=for-the-badge&labelColor=0f172a"/></a>
 <a href="https://www.linkedin.com/in/sai-rupesh-devarinti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/GuyLee/"><img src="https://img.shields.io/badge/LeetCode-600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/GuyLee/"><img src="https://img.shields.io/badge/LeetCode-1000%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:devarintisairupesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 🚀 **Open to SDE · Backend · Full-Stack · AI/ML Engineer roles (entry-level / fresher)**
